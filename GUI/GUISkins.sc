@@ -43,7 +43,7 @@ GUISkins {
 		backgroundColor = Color.gray(0.2, alpha);
 		stringColor = Color.white;
 		fontType = "Helvetica";
-		font = Font(fontType, 10);
+		font = Font(fontType, 12);
 		highLightColor = Color.blue(0.5,0.2);
 		backgroundSl = Color.white;
 		onColor = Color.gray(0.4, 1);
@@ -55,7 +55,7 @@ GUISkins {
 		backgroundColor = Color(0.1,0.1,0.1);
 		stringColor = Color.white();
 		fontType = "Helvetica";
-		font = Font(fontType, 10);
+		font = Font(fontType, 12);
 		highLightColor = Color.blue(0.5,0.2);
 		backgroundSl = Color.white;
 		onColor = Color(0.2, 0.2 ,0.5);
